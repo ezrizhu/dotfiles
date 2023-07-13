@@ -1,0 +1,10 @@
+add_newline = false
+
+[character]
+success_symbol = "[λ](bold green)"
+error_symbol = "[λ](bold red)"	
+
+[sudo]
+style = "bold green"
+symbol = "👩‍💻 "
+disabled = false
